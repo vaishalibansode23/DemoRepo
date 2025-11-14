@@ -5,5 +5,3 @@ for(let i=0;i<arr.length;i++){
     console.log(`Element at index ${i} is ${arr[i]}`);
 } 
 
-let sum=arr.reduce((a,b)=>a+b,0);
-console.log("Sum of array elements is:",sum);
