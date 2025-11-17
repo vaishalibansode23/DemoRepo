@@ -7,3 +7,4 @@ export class HelloWorld {
  let hello = new HelloWorld(); 
  console.log(hello.displayMessage());
  
+ 
